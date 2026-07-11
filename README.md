@@ -1,5 +1,7 @@
 # 🚀 AI Resume Scorer & Analyzer (ATS)
 
+🔗 **Live Project Link:** [https://streamlit.app](https://streamlit.app)
+
 This is a web application that acts like an Applicant Tracking System (ATS). It helps users upload their resume (as a PDF or Word document), paste a job description, and get an instant match score. The app uses AI to find gaps in the resume, suggest improvements, and let the user download the final feedback as a clean PDF report.
 
 The project is split into two main parts:
